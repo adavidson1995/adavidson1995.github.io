@@ -1,6 +1,6 @@
 ---
 title: "How much knowlege of AI do doctors actually need?"
-date: 2023-12-29
+date: 2023-12-13
 layout: post
 ---
 
