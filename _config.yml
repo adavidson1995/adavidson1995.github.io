@@ -1,5 +1,5 @@
 title: Researcher
-url: "https://ankitsultana.com"
+url: "https://alexdavidson.me"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -7,18 +7,22 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
+
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "Github"
+   link: "https://github.com/adavidson1995"
+ - name: "CV"
+   link: "cv.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Blog"
+   link: "/blog"
+
+favicon: true
+favicon_location: /assets/images/favicon.png

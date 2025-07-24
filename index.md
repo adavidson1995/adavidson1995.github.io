@@ -4,22 +4,41 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="assets/images/headshot.jpg" alt="Profile picture">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+
+I'm a PhD student in AI for Health at Imperial College London.
+
+I'm working on building [Singularity Health](www.singulariuty-health.io)an AI search tool for retrieving medical data.
+
+I completed my medical degree in 2019 and worked as a doctor in the NHS from 2019 to 2024. 
+
+
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My thesis foscuses on using deep learning to create vision language models to calcualte risk of patients with Multiple Sclerosis converting form relapsing remitting to secondary progressive. Alonside this I'm analysing data collected from www.neotree.com using Machine Learning to calcualte the risk of Neonatal encephalopathy.
 
-## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## [Publications]((https://scholar.google.com/citations?user=D4HwTiIAAAAJ&hl=en))
 
-## Typography
+1. Soliman N, Haroutounian S, Hohmann AG, Krane E, Liao J, Macleod M, Davidson A, et al. (2021). Systematic review and meta-analysis of cannabinoids, cannabis-based medicines, and endocannabinoid system modulators tested for antinociceptive effects in animal models of pain.
+Pain, [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33729209/) [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4HwTiIAAAAJ&citation_for_view=D4HwTiIAAAAJ:qjMakFHDy7sC)
+
+2.Davidson A, Hughes S, Neena M, Moore L. (2020).
+Streptococcus agalactiae macrolide/lincosamide resistance; implications for puerperal antimicrobial therapy. Access Microbiology [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4HwTiIAAAAJ&citation_for_view=D4HwTiIAAAAJ:u-x6o8ySG0sC) [Access Microbiology](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0023)
+
+3. Davidson R, Davidson A. (2020).
+Experience‐based learning in undergraduate clinical placements: a step too soon?
+Medical Education Google Scholar [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4HwTiIAAAAJ&citation_for_view=D4HwTiIAAAAJ:u5HHmVD_uO8C)
+
+
+4. Hughes S, Davidson A, Moore L, Mughal N. (2020).
+Incidence of Group B Streptococcus bacteraemia in mum and newborn following antimicrobial prophylaxis – To screen or not to screen?
+Access Microbiology [Google Scholar] [Access Microbiology](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0176)
+
+## Podcast
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -39,7 +58,11 @@ Here is a blockquote
 
 > To a great mind, nothing is little
 
-## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+Website
+
+This is based on jekyll website template. You can find the original template source code on [GitHub](https://github.com/ankitsultana/researcher).
+
+
+
