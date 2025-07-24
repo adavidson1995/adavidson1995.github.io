@@ -29,11 +29,11 @@ This has **easily** been the book that I have gained the most value from in 2022
 
 ## Communicate not in terms of judgments but in terms of your needs
 
-When we are having a discussion and we get worked up and emotional about what we are saying. Our monkey brains can take over and overwhelm our thoughts with anger or certain needs that aren't being met. Its so easy when stressed, tired or frustrated to lose control of yourself and want to express the pent up anger that you have built up. I certainly am significantly more likely to get angry with anyone in my life, particularly my fiance who I happen to spend the most time outside of work with. Naval Ravikant has a fantastic insight into anger: [[>>> The Alamanac of Naval Ravikant#^23f67e]] & [[>>> The Alamanac of Naval Ravikant#^7ca8c2]]
+When we are having a discussion and we get worked up and emotional about what we are saying. Our monkey brains can take over and overwhelm our thoughts with anger or certain needs that aren't being met. Its so easy when stressed, tired or frustrated to lose control of yourself and want to express the pent up anger that you have built up. I certainly am significantly more likely to get angry with anyone in my life, particularly my fiance who I happen to spend the most time outside of work with. Naval Ravikant has a fantastic insight into anger: 
 
 *Observe when you’re angry — anger is a loss of control over the situation . Anger is a contract you make with yourself to be in physical and mental and emotional turmoil until reality changes .* 
 
-*I don’t believe in anger anymore . Anger was good when I was young and full of testosterone , but now I like the Buddhist saying , “ Anger is a hot coal you hold in your hand while waiting to throw it at somebod . ” I don’t want to be angry , and I don’t want to be around angry people . I just cut them out of my life . I’m not judging them. I went through a lot of anger too . They have to work through it on their own . Go be angry at someone else , somewhere else . ^23f67e*
+*I don’t believe in anger anymore . Anger was good when I was young and full of testosterone , but now I like the Buddhist saying , “ Anger is a hot coal you hold in your hand while waiting to throw it at somebod . ” I don’t want to be angry , and I don’t want to be around angry people . I just cut them out of my life . I’m not judging them. I went through a lot of anger too . They have to work through it on their own . Go be angry at someone else , somewhere else.*
 
 But importantly, you are **angry because you have a need that is not being met**.
 
