@@ -1,10 +1,18 @@
+---
+title: "What is the best way to find and process information?"
+date: 2023-12-29
+layout: post
+---
+
+
+
 It can make your head spin, all the books, articles, podcasts and YouTube videos that you could possibly process, more than you could cover in 1000 lifetimes. How do you find the best stuff? How do you process it? and how do you act on it?
 
 There are a lot of sources that provide exceptionally insightful information. I divide the content I process into a few main categories:
 
 **1. Books**
 
-**2. Articles:** Including Newspapers and Blogs
+**2. Articles:** 
 
 **3. Podcasts**
 
