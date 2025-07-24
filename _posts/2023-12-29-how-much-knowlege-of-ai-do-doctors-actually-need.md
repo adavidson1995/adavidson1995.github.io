@@ -1,3 +1,11 @@
+---
+title: "How much knowlege of AI do doctors actually need?"
+date: 2023-12-29
+layout: post
+---
+
+
+
 Artificial Intelligence (AI) is without doubt going to be one of the most transformative technologies of the next 100 years, it will be the most powerful tool humanity has ever built  As AI continues to permeate various aspects of healthcare, will doctors need to have a basic understanding of AI concepts and tools to ensure they can use them effectively and safely?
 
 There is currently a massive range in the computational skills of doctors and most of that variability depends on what they do day to day with their work. Are they mostly practicing clinician? A clinical academic? Or have they left medicine into the commercial world? It's probably best to be more specific with the question we are asking. How much knowledge of AI does the average doctor who spends most of their time seeing patients need?  
