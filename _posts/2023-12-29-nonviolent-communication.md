@@ -1,6 +1,6 @@
 ---
 title: "Nonviolent Communication"
-date: 2023-12-29
+date: 2023-10-27
 layout: post
 ---
 
