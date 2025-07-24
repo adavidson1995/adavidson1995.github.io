@@ -7,11 +7,12 @@ is_contact: true
 
 ---
 
-## Social
+## Social/Links
 
-1. [GitHub](https://github.com/adavidson1995)
+1. [Twitter](https://x.com/Dr_AlexDavidson)
 2. [LinkedIn](https://www.linkedin.com/in/dralexdavidson/)
-3. [Twitter/X](https://x.com/Dr_AlexDavidson)
-4. [YouTube](https://www.youtube.com/@Dr_AlexDavidson)
-5. [Google Scholar](https://scholar.google.com/citations?user=D4HwTiIAAAAJ&hl=en)
-6. [The Computational Medicine Podcast](https://open.spotify.com/show/3HusiGdATbicaW4pdRAxF9)
+3. [YouTube](https://www.youtube.com/@Dr_AlexDavidson)
+4. [Google Scholar](https://scholar.google.com/citations?user=D4HwTiIAAAAJ&hl=en)
+5. [The Computational Medicine Podcast](https://open.spotify.com/show/3HusiGdATbicaW4pdRAxF9)
+6. [Substack](https://substack.com/@alexdavidson?r=5qse5&utm_medium=ios&utm_source=profile)
+7. [Goodreads](https://www.goodreads.com/user/show/67535975-alex-davidson)
