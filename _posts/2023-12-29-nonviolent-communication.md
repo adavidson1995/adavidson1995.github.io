@@ -1,3 +1,11 @@
+---
+title: "Nonviolent Communication"
+date: 2023-12-29
+layout: post
+---
+
+
+
 
 “At the core of all anger is a need that is not being fulfilled.” ― Marshall B. Rosenberg
 
