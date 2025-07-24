@@ -55,5 +55,6 @@ When angry, it is very tempting to present an evaluation or exaggeration of some
 
 I'm not exaggerating when I say that this is the most useful tool I have ever used when communicating with my financé and communicate **a lot** with my financé. I'm also likely to spend a lot more time communicating with my partner in the future based on the graph below. It has reduced the number of intense arguments I have with my financé by about 60-70% and improved the way I discuss issues with her overall probably by about 10-15%. That's pretty high value.
 
+<img width="708" height="555" alt="Screenshot 2025-07-24 at 11 30 59 am" src="https://github.com/user-attachments/assets/23f1193e-1a46-41a8-bd47-58f94e7d9a58" />
 
-![[Screenshot 2023-10-26 at 11.46.45 pm.png]]
+
