@@ -13,9 +13,11 @@ layout: post
 
 
 Nonviolent communication by Marshall B. Rosenberg
+
 Date read: 1st Feb 2022
+
 How strongly I recommend it: 10/10
-Read more on Amazon.
+
 
 ---
 
