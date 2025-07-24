@@ -20,7 +20,7 @@ nav:
  - name: "CV"
    link: "cv.pdf"
  - name: "Contact"
-   link: "contact"
+   link: "/contact"
  - name: "Blog"
    link: "/blog"
 
