@@ -20,9 +20,9 @@ nav:
  - name: "CV"
    link: "cv.pdf"
  - name: "Contact"
-   link: "/contact"
+   link: "/contact/"
  - name: "Blog"
-   link: "/blog"
+   link: "/blog/"
 
 favicon: true
 favicon_location: /assets/images/favicon.png
