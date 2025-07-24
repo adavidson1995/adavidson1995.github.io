@@ -18,7 +18,7 @@ nav:
  - name: "GitHub"
    link: "https://github.com/adavidson1995"
  - name: "CV"
-   link: "cv.pdf"
+   link: "/cv.pdf"
  - name: "Contact"
    link: "/contact/"
  - name: "Blog"
