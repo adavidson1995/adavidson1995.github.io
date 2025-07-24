@@ -1,4 +1,8 @@
-29th Dec 2023
+---
+title: "The Status Game"
+date: 2023-12-29
+layout: post
+---
 
 
 Humans are competitive by nature. We are the products of billions of years of evolution and which is by definition a competitive process. We live in an era that would seem like heaven on earth to humans as early as 200 years ago. Today humans on average are living the best lives they ever have. On virtually all of the key dimensions of human material well-being—poverty, literacy, health, freedom, and education—the world is an extraordinarily better place than it was just a couple of centuries ago. The world is less violent, more stable, and more prosperous than it has ever been. [By almost any measure, the world is better than it has ever been](https://www.forbes.com/sites/stevedenning/2017/11/30/why-the-world-is-getting-better-why-hardly-anyone-knows-it/).
