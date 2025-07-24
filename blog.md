@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+permalink: /blog/
 ---
 
 <h1>Blog</h1>
@@ -37,8 +38,8 @@ title: Blog
 <ul class="blog-list">
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <span class="blog-date">{{ post.date | date: "%b %d %Y" }}</span>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="blog-date">{{ post.date | date: "%b %d, %Y" }}</span>
     </li>
   {% endfor %}
 </ul>
