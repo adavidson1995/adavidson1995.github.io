@@ -42,7 +42,6 @@ I host [The Computational Medicine Podcast](https://open.spotify.com/show/3HusiG
 ### Website
 
 This website is based on the Jekyll Researcher template. You can find the original template source code on <a href="https://github.com/ankitsultana/researcher">GitHub</a>.
-<p class="site-footer-note">This website is based on the Jekyll Researcher template. You can find the original template source code on <a href="https://github.com/ankitsultana/researcher">GitHub</a>.</p>
-
+<p class="site-footer-note">
 
 
