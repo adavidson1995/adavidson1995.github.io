@@ -1,17 +1,47 @@
 ---
 layout: default
-is_contact: true
+title: Blog
 ---
 
-* Email: alexander [dot] davidson [at] imperial [dot] ac [dot] uk
+<h1>Blog</h1>
 
----
+<style>
+.blog-list {
+  list-style: none;
+  padding: 0;
+}
 
-## Social
+.blog-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 10px;
+  padding: 5px 0;
+}
 
-1. [GitHub](https://github.com/adavidson1995)
-2. [LinkedIn](https://www.linkedin.com/in/dralexdavidson/)
-3. [Twitter/X](https://x.com/Dr_AlexDavidson)
-4. [YouTube](https://www.youtube.com/@Dr_AlexDavidson)
-5. [Google Scholar](https://scholar.google.com/citations?user=D4HwTiIAAAAJ&hl=en)
-6. [The Computational Medicine Podcast](https://open.spotify.com/show/3HusiGdATbicaW4pdRAxF9)
+.blog-list a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.blog-list a:hover {
+  text-decoration: underline;
+}
+
+.blog-date {
+  color: #666;
+  font-size: 0.9em;
+}
+</style>
+
+<ul class="blog-list">
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="blog-date">{{ post.date | date: "%b %d %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+
+
+
