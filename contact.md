@@ -1,6 +1,8 @@
 ---
-layout: default
-is_contact: true
+layout: default          
+title: Contact            
+permalink: /contact/     
+is_contact: true          # keep this if your theme uses it
 ---
 
 * Email: alexander [dot] davidson [at] imperial [dot] ac [dot] uk
