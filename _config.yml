@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://alexdavidson.me"
-baseurl: "/researcher"
+title: Alex Davidson
+url: "https://adavidson1995.github.io"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
