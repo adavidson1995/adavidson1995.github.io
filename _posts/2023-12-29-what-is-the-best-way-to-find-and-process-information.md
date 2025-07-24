@@ -1,6 +1,6 @@
 ---
 title: "What is the best way to find and process information?"
-date: 2023-12-29
+date: 2023-07-02
 layout: post
 ---
 
