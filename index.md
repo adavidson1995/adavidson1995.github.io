@@ -18,17 +18,19 @@ My thesis focuses on using deep learning to create vision language models to cal
 
 ## Publications
 
-1. Soliman N, Haroutounian S, Hohmann AG, Krane E, Liao J, Macleod M, Davidson A, et al. (2021). Systematic review and meta-analysis of cannabinoids, cannabis-based medicines, and endocannabinoid system modulators tested for antinociceptive effects in animal models of pain.
+1. Hussain A, Guni A, Gandhewar R, Warner-Levy J, Davidson A, Shah K, Darzi A, Ashrafian H. (2025). Is the FDA regulation of cardiology AI devices supporting cardiovascular innovation: a scoping review. [[BMJ Heart]](https://heart.bmj.com/content/early/2025/08/20/heartjnl-2025-326307.abstract) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4HwTiIAAAAJ&citation_for_view=D4HwTiIAAAAJ:_FxGoFyzp5QC)
+
+2. Soliman N, Haroutounian S, Hohmann AG, Krane E, Liao J, Macleod M, Davidson A, et al. (2021). Systematic review and meta-analysis of cannabinoids, cannabis-based medicines, and endocannabinoid system modulators tested for antinociceptive effects in animal models of pain.
 Pain, [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/33729209/) [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4HwTiIAAAAJ&citation_for_view=D4HwTiIAAAAJ:qjMakFHDy7sC)
 
-2. Davidson A, Hughes S, Neena M, Moore L. (2020).
+3. Davidson A, Hughes S, Neena M, Moore L. (2020).
 Streptococcus agalactiae macrolide/lincosamide resistance; implications for puerperal antimicrobial therapy. Access Microbiology [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4HwTiIAAAAJ&citation_for_view=D4HwTiIAAAAJ:u-x6o8ySG0sC) [[Access Microbiology]](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0023)
 
-3. Davidson R, Davidson A. (2020).
+4. Davidson R, Davidson A. (2020).
 Experience‐based learning in undergraduate clinical placements: a step too soon?
 Medical Education [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4HwTiIAAAAJ&citation_for_view=D4HwTiIAAAAJ:u5HHmVD_uO8C)
 
-4. Hughes S, Davidson A, Moore L, Mughal N. (2020).
+5. Hughes S, Davidson A, Moore L, Mughal N. (2020).
 Incidence of Group B Streptococcus bacteraemia in mum and newborn following antimicrobial prophylaxis – To screen or not to screen?
 Access Microbiology [[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4HwTiIAAAAJ&citation_for_view=D4HwTiIAAAAJ:u5HHmVD_uO8C) [[Access Microbiology]](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0176)
 
