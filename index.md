@@ -14,7 +14,7 @@ I completed my medical degree in 2019 and worked as a doctor in the NHS from 201
 
 My PhD is hosted at the [Institute of Global Health Innovation](https://www.imperial.ac.uk/global-health-innovation/) and my supervisors are [Professor Lord Darzi](https://en.wikipedia.org/wiki/Ara_Darzi,_Baron_Darzi_of_Denham), [Hutan Ashrafian](https://en.wikipedia.org/wiki/Hutan_Ashrafian) and [James Teo](https://kclpure.kcl.ac.uk/portal/en/persons/james.teo).
 
-My thesis focuses on using deep learning to create vision language models to calculate risk of patients with Multiple Sclerosis converting from relapsing remitting to secondary progressive. Alongside this I'm analysing data collected from [Neotree](https://www.neotree.com) using Machine Learning to calculate the risk of Neonatal encephalopathy.
+My thesis focuses on using deep learning to create vision language models to calculate risk of patients with Multiple Sclerosis converting from relapsing remitting to secondary progressive.
 
 ## Publications
 
