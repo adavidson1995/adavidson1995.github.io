@@ -12,7 +12,7 @@ There are a lot of sources that provide exceptionally insightful information. I 
 
 **1. Books**
 
-**2. Articles:** 
+**2. Articles** 
 
 **3. Podcasts**
 
